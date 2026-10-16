@@ -1,0 +1,5 @@
+shadow prebuilt repo: bumble (host)
+  arch package: bumble v14.0.0_r67-2, Forgejo ag-ci arch repo
+  api-level: universal (Python library host)
+  layout: bumble-*.pkg.tar.zst at root; Android.bp providing bumble & bumble-pandora
+  date: 2026-10-16

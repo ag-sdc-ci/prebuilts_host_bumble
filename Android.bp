@@ -1,0 +1,13 @@
+package {
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+python_library_host {
+    name: "bumble",
+    srcs: ["lib64/bumble.py"],
+}
+
+python_library_host {
+    name: "bumble-pandora",
+    srcs: ["lib64/bumble-pandora.py"],
+}
